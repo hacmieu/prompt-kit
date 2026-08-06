@@ -11,6 +11,7 @@ Mục đích: agent nào **không đọc được file local** (cloud agent, san
 | [`k1.md`](k1.md) | Hết chat nhưng việc **chưa xong** (checkpoint) |
 | [`k2.md`](k2.md) | Việc **đã xong** |
 | [`blocks.md`](blocks.md) | Mẫu block `## Chat Sessions` + `## Work Log` |
+| [`report.md`](report.md) | **Người dùng thường** báo cáo công việc qua chatbot bất kỳ → khối JSON `worklog/v1` |
 
 Raw URL:
 
